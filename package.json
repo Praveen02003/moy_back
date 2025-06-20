@@ -4,8 +4,8 @@
   "main": "Express_1.js",
   "type": "module",
   "scripts": {
-    "start": "nodemon Express_1.js",
-    "dev": "node Express_1.js",
+    "start": "node Express_1.js",
+    "dev": "nodemon Express_1.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
